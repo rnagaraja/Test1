@@ -1,1 +1,2 @@
 this is a second test file in the git branch
+hi hi
